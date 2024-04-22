@@ -1,0 +1,2 @@
+# connect_wifi_from_terminal
+connect_wifi_from_terminal
