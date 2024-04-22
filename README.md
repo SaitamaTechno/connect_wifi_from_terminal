@@ -1,2 +1,2 @@
-# connect_wifi_from_terminal
-connect_wifi_from_terminal
+# connect wifi from terminal/ssh
+nmcli is a builtin package in debian. Once "bash wifi_connect.sh" done, ssh will be closed and you should connect to new ip.
